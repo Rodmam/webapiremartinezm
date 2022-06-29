@@ -1,0 +1,6 @@
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksEntities\bin\Debug\adventureworksEntities.dll
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksEntities\bin\Debug\adventureworksEntities.pdb
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksEntities\obj\Debug\adventureworksEntities.csproj.AssemblyReference.cache
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksEntities\obj\Debug\adventureworksEntities.csproj.CoreCompileInputs.cache
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksEntities\obj\Debug\adventureworksEntities.dll
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksEntities\obj\Debug\adventureworksEntities.pdb

@@ -1,0 +1,11 @@
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\bin\Debug\adventureworksBLL.dll
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\bin\Debug\adventureworksBLL.pdb
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\bin\Debug\adventureworksDOL.dll
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\bin\Debug\adventureworksEntities.dll
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\bin\Debug\adventureworksDOL.pdb
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\bin\Debug\adventureworksEntities.pdb
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\obj\Debug\adventureworksBLL.csproj.AssemblyReference.cache
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\obj\Debug\adventureworksBLL.csproj.CoreCompileInputs.cache
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\obj\Debug\adventureworksBLL.csproj.CopyComplete
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\obj\Debug\adventureworksBLL.dll
+D:\rodmam\aspnet-projects\AdventureWorks\adventureworksBLL\obj\Debug\adventureworksBLL.pdb
